@@ -8383,7 +8383,20 @@
         "name:zh": "麦当劳",
         "name:zh-Hans": "麦当劳",
         "takeaway": "yes"
+      },
+       {
+      "displayName": "Chicken Salad Chick",
+      "id": "chickensaladchick-34r5de",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Chicken Salad Chick",
+        "brand:wikidata": "Q19720749",
+        "brand:wikipedia": "en:Chicken Salad Chick",
+        "cuisine": "chicken",
+        "name": "Chicken Salad Chick",
+        "takeaway": "yes"
       }
-    }
+    },
   ]
 }
